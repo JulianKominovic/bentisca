@@ -48,13 +48,7 @@ export type SupportedSocialMedia = z.infer<typeof supportedSocialMediaSchema>;
 
 export const sizeSchema = z.enum(["square", "wide", "tall"]).optional();
 export type Size = z.infer<typeof sizeSchema>;
-export const roundedSizeSchema = z
-  .number()
-  .min(0)
-  .max(9999)
-  .optional()
-  .or(z.enum(["50%"]))
-  .optional();
+export const roundedSizeSchema = z.coerce.number().min(0).max(9999).optional();
 export type RoundedSize = z.infer<typeof roundedSizeSchema>;
 
 export type BentoLogoProps = {

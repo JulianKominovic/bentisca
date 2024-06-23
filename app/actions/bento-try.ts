@@ -7,5 +7,6 @@ export async function setBentoSettings(formData: FormData) {
   urlObject.set("url", formData.get("url") as string);
   urlObject.set("subtitle", formData.get("subtitle") as string);
   urlObject.set("size", formData.get("size") as string);
+  urlObject.set("rounded", formData.get("rounded") as string);
   redirect("/?" + urlObject.toString());
 }

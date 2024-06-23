@@ -29,12 +29,13 @@ const urls = [
 ];
 
 export default function Home({ searchParams }: any) {
-  const { url, subtitle, size } = searchParams;
+  const { url, subtitle, size, rounded } = searchParams;
 
   const urlObject = new URLSearchParams();
   urlObject.set("url", url);
   urlObject.set("subtitle", subtitle);
   urlObject.set("size", size);
+  urlObject.set("rounded", rounded);
   const { width, height } = getBentoCardSizes(size);
   const baseApiUrl =
     process.env.NODE_ENV === "development"
@@ -124,6 +125,18 @@ export default function Home({ searchParams }: any) {
               })}
             </select>
           </label>
+          <label className="block w-full sm:w-min" htmlFor="rounded">
+            Rounded
+            <input
+              className="w-full p-2 border border-black/10 rounded-lg"
+              type="number"
+              name="rounded"
+              min={0}
+              max={9999}
+              id="rounded"
+              placeholder="24"
+            />
+          </label>
           <button
             className="sm:w-fit w-full py-2 px-4 bg-black text-white rounded-lg"
             type="submit"
@@ -154,6 +167,58 @@ export default function Home({ searchParams }: any) {
         loading="lazy"
       />
 
+      <section className="flex flex-col gap-4 mt-32 justify-center">
+        <h2 className="text-2xl mb-6 font-semibold text-center">Docs</h2>
+        <h3 className="font-semibold text-lg">Get social media bento card</h3>
+        <div className="flex gap-2 items-center mb-4 rounded-xl w-fit">
+          <span className="font-medium px-1 py-0.5 border border-blue-500 rounded-full text-xs bg-blue-200">
+            GET
+          </span>
+          <span>/api/bento-cards</span>
+        </div>
+        <table className="rounded-lg overflow-hidden border border-black/10">
+          <thead>
+            <tr>
+              <th className="text-left">Query</th>
+              <th className="text-left">Value</th>
+              <th className="text-left">Default</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>url</td>
+              <td>string</td>
+              <td>https://www.behance.net/example_user</td>
+            </tr>
+            <tr>
+              <td>subtitle</td>
+              <td>string</td>
+              <td>Example user</td>
+            </tr>
+            <tr>
+              <td>size</td>
+              <td>square | wide | tall</td>
+              <td>square</td>
+            </tr>
+            <tr>
+              <td>rounded</td>
+              <td>number</td>
+              <td>24</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          Example:{" "}
+          <a
+            href="http://bentos.jkominovic.dev/api/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-2"
+          >
+            http://bentos.jkominovic.dev/api/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24
+          </a>
+        </p>
+      </section>
       <section className="flex flex-col gap-4 mt-32 justify-center">
         <h2 className="text-2xl mb-6 font-semibold text-center">Showcase</h2>
         {sizes.flatMap((size) => {

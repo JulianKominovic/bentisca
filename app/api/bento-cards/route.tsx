@@ -1,14 +1,10 @@
 import BentoCard from "@/components/BentoCard";
-import {
-  getBentoCardSizes,
-  roundedSizeSchema,
-  sizeSchema,
-} from "@/const/bento-cards";
+import { roundedSizeSchema, sizeSchema } from "@/const/bento-cards";
 import { NextRequest } from "next/server";
 import { z } from "zod";
-import sharp from "sharp";
+// import sharp from "sharp";
 
-import { optimize } from "svgo";
+// import { optimize } from "svgo";
 
 export async function GET(req: NextRequest) {
   const searchParams = Object.fromEntries(req.nextUrl.searchParams.entries());
