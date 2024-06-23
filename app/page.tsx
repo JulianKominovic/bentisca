@@ -36,9 +36,11 @@ export default function Home({ searchParams }: any) {
   urlObject.set("subtitle", subtitle);
   urlObject.set("size", size);
   const { width, height } = getBentoCardSizes(size);
-  const generatedUrl =
-    process.env.NEXT_PUBLIC_VERCEL_URL ??
-    "localhost:3000" + "/api/bento-cards?" + urlObject.toString();
+  const baseApiUrl =
+    process.env.NODE_ENV === "development"
+      ? "http://localhost:3000"
+      : "https://bentos.jkominovic.dev";
+  const generatedUrl = baseApiUrl + "/api/bento-cards?" + urlObject.toString();
 
   const markdownToCopy = `[![${subtitle ?? ""}](${generatedUrl})](${url})`;
 
