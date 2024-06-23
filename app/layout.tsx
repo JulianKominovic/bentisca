@@ -16,7 +16,41 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={clsx(inter.className, "bg-neutral-50")}>{children}</body>
+      <body className={clsx(inter.className, "bg-neutral-50")}>
+        {children}
+
+        <footer className="bg-white py-16">
+          <div className="mx-auto max-w-screen-md">
+            <p className="mb-4">
+              <span className="text-2xl">🍱</span>
+              <span className="font-semibold text-xl">
+                {" "}
+                Github readme bento
+              </span>
+            </p>
+            <p>
+              Created by{" "}
+              <a
+                href="https://github.com/JulianKominovic"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline underline-offset-2"
+              >
+                Julian Kominovic
+              </a>{" "}
+              using{" "}
+              <a
+                href="https://www.figma.com/community/file/1232620929235403629"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline underline-offset-2"
+              >
+                {"Double Glitch's Figma design"}
+              </a>
+            </p>
+          </div>
+        </footer>
+      </body>
     </html>
   );
 }

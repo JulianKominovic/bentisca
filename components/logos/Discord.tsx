@@ -340,7 +340,7 @@ export default function Discord({
         fill="#FBFBFB"
         style={{ fontFamily: "sans-serif", fontSize: 14, fontWeight: 300 }}
       >
-        {`@${children}`}
+        {children}
       </text>
       <defs>
         <filter

@@ -1,7 +1,12 @@
 import BentoCard from "@/components/BentoCard";
-import { roundedSizeSchema, sizeSchema } from "@/const/bento-cards";
+import {
+  getBentoCardSizes,
+  roundedSizeSchema,
+  sizeSchema,
+} from "@/const/bento-cards";
 import { NextRequest } from "next/server";
 import { z } from "zod";
+import sharp from "sharp";
 
 import { optimize } from "svgo";
 
@@ -9,9 +14,10 @@ export async function GET(req: NextRequest) {
   const searchParams = Object.fromEntries(req.nextUrl.searchParams.entries());
 
   const validationSchema = z.object({
-    url: z.string().url(),
+    url: z.string(),
     rounded: roundedSizeSchema,
     size: sizeSchema,
+    subtitle: z.string().optional(),
   });
   const { data, error } = validationSchema.safeParse(searchParams);
   if (error) {
@@ -22,22 +28,19 @@ export async function GET(req: NextRequest) {
       }
     );
   }
-  const { url, rounded, size } = data;
+  const { url, rounded = 24, size, subtitle } = data;
   const ReactDOMServer = (await import("react-dom/server")).default;
   const svgString = ReactDOMServer.renderToStaticMarkup(
-    <BentoCard url={url} rounded={rounded} size={size}>
-      {url}
-    </BentoCard>
+    <BentoCard url={url} rounded={rounded} size={size} subtitle={subtitle} />
   );
-  const result = optimize(svgString, {
-    multipass: true,
-  });
 
-  const optimizedSvgString = result.data;
-
-  return new Response(optimizedSvgString, {
+  // const png = await sharp(Buffer.from(svgString), { density: 400 })
+  //   .webp()
+  //   .toBuffer();
+  return new Response(svgString, {
     headers: {
       "Content-Type": "image/svg+xml",
+      // "Content-Type": "image/webp",
       "Cache-Control": "public, max-age=604800, immutable",
     },
   });

@@ -7,3 +7,6 @@
     text-wrap: balance;
   }
 }
+* {
+  min-width: 0;
+}

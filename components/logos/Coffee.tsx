@@ -423,7 +423,7 @@ export default function Coffee({
         fill="#353535"
         style={{ fontFamily: "sans-serif", fontSize: 14, fontWeight: 300 }}
       >
-        {`@${children}`}
+        {children}
       </text>
       <defs>
         <filter
