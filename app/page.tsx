@@ -32,10 +32,10 @@ export default function Home({ searchParams }: any) {
   const { url, subtitle, size, rounded } = searchParams;
 
   const urlObject = new URLSearchParams();
-  urlObject.set("url", url);
-  urlObject.set("subtitle", subtitle);
-  urlObject.set("size", size);
-  urlObject.set("rounded", rounded);
+  if (url) urlObject.set("url", url);
+  if (subtitle) urlObject.set("subtitle", subtitle);
+  if (size) urlObject.set("size", size);
+  if (rounded) urlObject.set("rounded", rounded);
   const { width, height } = getBentoCardSizes(size);
   const baseApiUrl =
     process.env.NODE_ENV === "development"
@@ -43,7 +43,10 @@ export default function Home({ searchParams }: any) {
       : "https://bentos.jkominovic.dev";
   const generatedUrl = baseApiUrl + "/api/bento-cards?" + urlObject.toString();
 
-  const markdownToCopy = `[![${subtitle ?? ""}](${generatedUrl})](${url})`;
+  const markdownToCopy =
+    generatedUrl && url
+      ? `[![${subtitle ?? ""}](${generatedUrl})](${url})`
+      : "";
 
   return (
     <main className="gap-8 min-h-screen max-w-screen-lg mx-auto px-4 py-8 sm:p-12">
@@ -145,27 +148,31 @@ export default function Home({ searchParams }: any) {
           </button>
         </form>
       </section>
-      <h3 className="font-semibold mb-2">
-        Markdown
-        <span className="text-black/60 font-normal text-sm ml-2">
-          (paste it in your readme)
-        </span>
-      </h3>
-      <code className="rounded-lg border gap-4 border-black/10 bg-white flex justify-between p-2 items-center mb-4 text-sm">
-        <pre className="overflow-hidden whitespace-normal">
-          {markdownToCopy}
-        </pre>
-        <CopyButton textToCopy={markdownToCopy} />
-      </code>
-      <Image
-        className="h-fit mx-auto"
-        src={"/api/bento-cards?" + urlObject.toString()}
-        alt={url}
-        width={width}
-        height={height}
-        unoptimized
-        loading="lazy"
-      />
+      {markdownToCopy && (
+        <>
+          <h3 className="font-semibold mb-2">
+            Markdown
+            <span className="text-black/60 font-normal text-sm ml-2">
+              (paste it in your readme)
+            </span>
+          </h3>
+          <code className="rounded-lg border gap-4 border-black/10 bg-white flex justify-between p-2 items-center mb-4 text-sm">
+            <pre className="overflow-hidden whitespace-normal">
+              {markdownToCopy}
+            </pre>
+            <CopyButton textToCopy={markdownToCopy} />
+          </code>
+          <Image
+            className="h-fit mx-auto"
+            src={generatedUrl}
+            alt={url}
+            width={width}
+            height={height}
+            unoptimized
+            loading="lazy"
+          />
+        </>
+      )}
 
       <section className="flex flex-col gap-4 mt-32 justify-center">
         <h2 className="text-2xl mb-6 font-semibold text-center">Docs</h2>
