@@ -1,4 +1,5 @@
 import { BentoLogoProps, getBentoCardSizes } from "@/const/bento-cards";
+import { roundedRect } from "@/utils/rounding-svg";
 import * as React from "react";
 
 const BehanceLogo = ({ children, size, rounded = 24 }: BentoLogoProps) => {
@@ -9,12 +10,8 @@ const BehanceLogo = ({ children, size, rounded = 24 }: BentoLogoProps) => {
       width={width}
       height={height}
       fill="none"
-      style={{
-        overflow: "hidden",
-        borderRadius: rounded,
-      }}
     >
-      <path fill="url(#a)" d={`M0 0h${width}v${height}H0z`} />
+      <path fill="url(#a)" d={roundedRect(width, height, rounded)} />
       <g opacity=".05" filter="url(#b)">
         <mask
           id="c"

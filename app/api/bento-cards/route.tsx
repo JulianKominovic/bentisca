@@ -2,9 +2,7 @@ import BentoCard from "@/components/BentoCard";
 import { roundedSizeSchema, sizeSchema } from "@/const/bento-cards";
 import { NextRequest } from "next/server";
 import { z } from "zod";
-// import sharp from "sharp";
-
-// import { optimize } from "svgo";
+import sharp from "sharp";
 
 export async function GET(req: NextRequest) {
   const searchParams = Object.fromEntries(req.nextUrl.searchParams.entries());
@@ -25,19 +23,27 @@ export async function GET(req: NextRequest) {
     );
   }
   const { url, rounded = 24, size, subtitle } = data;
+
   const ReactDOMServer = (await import("react-dom/server")).default;
-  const svgString = ReactDOMServer.renderToStaticMarkup(
+  const Component = (
     <BentoCard url={url} rounded={rounded} size={size} subtitle={subtitle} />
   );
+  if (Component === null) {
+    return new Response(JSON.stringify({ errors: { url: "Invalid url" } }), {
+      status: 400,
+    });
+  }
+  const svgString = ReactDOMServer.renderToStaticMarkup(Component);
 
-  // const png = await sharp(Buffer.from(svgString), { density: 400 })
-  //   .webp()
-  //   .toBuffer();
-  return new Response(svgString, {
+  const imageBuffer = await sharp(Buffer.from(svgString), { density: 400 })
+    .avif()
+    .toBuffer();
+
+  return new Response(imageBuffer, {
     headers: {
-      "Content-Type": "image/svg+xml",
-      // "Content-Type": "image/webp",
-      "Cache-Control": "public, max-age=604800, immutable",
+      "Content-Type": "image/avif",
+      // cache forever
+      "Cache-Control": "public, max-age=31536000, immutable",
     },
   });
 }

@@ -1,4 +1,5 @@
 import { BentoLogoProps, getBentoCardSizes } from "@/const/bento-cards";
+import { roundedRect } from "@/utils/rounding-svg";
 
 export default function Instagram({
   size,
@@ -16,14 +17,14 @@ export default function Instagram({
         borderRadius: rounded,
       }}
     >
-      <path fill="url(#a)" d={`M0 0h${width}v${height}H0z`} />
+      <path fill="url(#a)" d={roundedRect(width, height, rounded)} />
 
       <path
         fill="url(#b)"
         style={{
           mixBlendMode: "hard-light",
         }}
-        d={`M0 0h${width}v${height}H0z`}
+        d={roundedRect(width, height, rounded)}
       />
       <g opacity=".05" filter="url(#c)">
         <mask
