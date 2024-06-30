@@ -10,11 +10,7 @@ import { getWebsiteOgInfo } from "@/utils/scrapping";
 import { getBackgroundColorsFromFavicon } from "@/utils/colors";
 import { NextRequest, NextResponse } from "next/server";
 import sharp from "sharp";
-import satori from "satori";
 import { IMAGE_SCALE_FACTOR } from "@/const";
-import fs from "fs";
-
-const interFont = Buffer.from(fs.readFileSync("assets/inter-font.ttf"));
 
 export async function GET(req: NextRequest) {
   const searchParams = Object.fromEntries(req.nextUrl.searchParams.entries());
