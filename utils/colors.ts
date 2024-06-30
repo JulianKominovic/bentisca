@@ -1,22 +1,22 @@
 const getColors = require("get-image-colors");
 
-// function changeColor(_color: `#${string}`, amount: number) {
-//   const color = _color + "";
-//   // #FFF not supportet rather use #FFFFFF
-//   const clamp = (val: any) => Math.min(Math.max(val, 0), 0xff);
-//   const fill = (str: any) => ("00" + str).slice(-2);
+export function changeLuminosity(_color: `#${string}`, amount: number) {
+  const color = _color + "";
+  // #FFF not supportet rather use #FFFFFF
+  const clamp = (val: any) => Math.min(Math.max(val, 0), 0xff);
+  const fill = (str: any) => ("00" + str).slice(-2);
 
-//   const num = parseInt(color.substr(1), 16);
-//   const red = clamp((num >> 16) + amount);
-//   const green = clamp(((num >> 8) & 0x00ff) + amount);
-//   const blue = clamp((num & 0x0000ff) + amount);
-//   return (
-//     "#" +
-//     fill(red.toString(16)) +
-//     fill(green.toString(16)) +
-//     fill(blue.toString(16))
-//   );
-// }
+  const num = parseInt(color.substr(1), 16);
+  const red = clamp((num >> 16) + amount);
+  const green = clamp(((num >> 8) & 0x00ff) + amount);
+  const blue = clamp((num & 0x0000ff) + amount);
+  return (
+    "#" +
+    fill(red.toString(16)) +
+    fill(green.toString(16)) +
+    fill(blue.toString(16))
+  );
+}
 
 export async function getBackgroundColorsFromFavicon(
   faviconBuffer: Buffer,
@@ -47,7 +47,7 @@ export async function getBackgroundColorsFromFavicon(
 }
 
 export function contrastingColor(color: string) {
-  return luma(color) >= 165 ? "000" : "fff";
+  return luma(color) >= 165 ? "#242424" : "#FBFBFB";
 }
 function luma(color: string) {
   // color can be a hx string or an array of RGB values 0-255
@@ -70,7 +70,7 @@ function hexToRGBArray(color: string) {
   return rgb;
 }
 
-function changeHue(rgb: string, degree: number) {
+export function changeHue(rgb: string, degree: number) {
   var hsl = rgbToHSL(rgb);
   hsl.h += degree;
   if (hsl.h > 360) {
@@ -179,4 +179,33 @@ function normalize_rgb_value(color: number, m: number) {
 
 function rgbToHex(r: number, g: number, b: number) {
   return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+}
+
+export function hexColorToMatrix(_hex: string) {
+  const hex = _hex.replace("#", "");
+  let numberList = [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0];
+  let RGB = [];
+  for (let i = 0; i < hex.length; i += 2) {
+    const firstDigit = parseInt(hex[i], 16);
+
+    const firstDigitPartial = firstDigit * 16;
+
+    let RGBValue: any = parseInt(hex[i + 1], 16) + firstDigitPartial;
+
+    RGBValue = RGBValue / 255;
+
+    RGBValue = RGBValue.toFixed(2);
+
+    RGB.push(RGBValue);
+  }
+
+  const red = RGB[0];
+  const green = RGB[1];
+  const blue = RGB[2];
+
+  numberList[0] = red;
+  numberList[6] = green;
+  numberList[12] = blue;
+
+  return numberList.join(" ");
 }

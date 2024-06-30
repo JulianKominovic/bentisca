@@ -18,14 +18,11 @@ export default function RootLayout({
     <html lang="en">
       <body className={clsx(inter.className, "bg-neutral-50")}>
         {children}
-        <footer className="bg-white py-16 px-8">
-          <div className="mx-auto max-w-screen-md">
+        <footer className="px-8 py-16 bg-white">
+          <div className="max-w-screen-md mx-auto">
             <p className="mb-4">
               <span className="text-2xl">🍱</span>
-              <span className="font-semibold text-xl">
-                {" "}
-                Github readme bento
-              </span>
+              <span className="text-xl font-semibold"> Bentisca</span>
             </p>
             <p>
               Created by{" "}
@@ -45,6 +42,14 @@ export default function RootLayout({
                 className="underline underline-offset-2"
               >
                 {"Double Glitch's Figma design"}
+              </a>{" "}
+              and{" "}
+              <a
+                href="https://simpleicons.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                SimpleIcons library
               </a>
             </p>
           </div>

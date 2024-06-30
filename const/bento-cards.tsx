@@ -21,6 +21,7 @@ import {
   siX,
   siYoutube,
 } from "simple-icons";
+
 import { z } from "zod";
 
 export const supportedSocialMedia = [
@@ -112,8 +113,8 @@ export const supportedSocialMediaIcons: Record<
 };
 export const supportedSocialMediaSchema = z.enum(supportedSocialMedia);
 export type SupportedSocialMedia = z.infer<typeof supportedSocialMediaSchema>;
-
-export const sizeSchema = z.enum(["square", "wide", "tall"]).optional();
+export const SIZES = ["square", "wide", "tall"] as const;
+export const sizeSchema = z.enum(SIZES).optional();
 export type Size = z.infer<typeof sizeSchema>;
 export const roundedSizeSchema = z.coerce.number().min(0).max(9999).optional();
 export type RoundedSize = z.infer<typeof roundedSizeSchema>;
@@ -251,5 +252,14 @@ export const getSubtitleByUrl = (url: string) => {
       return urlObject.pathname.split("/")[1];
     default:
       return url;
+  }
+};
+
+export const getHandmadeBrandColor = (brand: SimpleIcon["title"]) => {
+  switch (brand) {
+    case "Rust":
+      return "#CE412B";
+    default:
+      return null;
   }
 };
