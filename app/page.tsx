@@ -29,6 +29,7 @@ const urls = [
   "https://layers.to/princemirxcle",
   "https://www.linkedin.com/in/jkominovic/",
   "https://medium.com/@andrew.bestbier",
+  "https://ar.pinterest.com/berathanusta1/",
 ];
 
 export default function Home({ searchParams }: any) {
