@@ -27,6 +27,7 @@ const urls = [
   "https://github.com/JulianKominovic/live-feedback",
   "https://www.instagram.com/example_user",
   "https://layers.to/princemirxcle",
+  "https://www.linkedin.com/in/jkominovic/",
 ];
 
 export default function Home({ searchParams }: any) {
