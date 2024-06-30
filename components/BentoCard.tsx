@@ -16,6 +16,7 @@ import Github from "./logos/Github";
 import Instagram from "./logos/Instagram";
 import Layers from "./logos/Layers";
 import Linkedin from "./logos/Linkedin";
+import Medium from "./logos/Medium";
 
 export default function BentoCard({
   url,
@@ -104,6 +105,12 @@ export default function BentoCard({
         <Linkedin rounded={rounded} size={size}>
           {subtitle}
         </Linkedin>
+      );
+    case "Medium":
+      return (
+        <Medium rounded={rounded} size={size}>
+          {subtitle}
+        </Medium>
       );
 
     default:

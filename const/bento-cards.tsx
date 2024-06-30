@@ -11,6 +11,7 @@ import {
   siGmail,
   siInstagram,
   siLinkedin,
+  siMedium,
   SimpleIcon,
 } from "simple-icons";
 import { z } from "zod";
@@ -29,6 +30,7 @@ export const supportedSocialMedia = [
   "Instagram",
   "Layers",
   "Linkedin",
+  "Medium",
 ] as const;
 export const supportedSocialMediaIcons: Record<
   SupportedSocialMedia,
@@ -71,6 +73,7 @@ export const supportedSocialMediaIcons: Record<
     </svg>
   ),
   Linkedin: siLinkedin,
+  Medium: siMedium,
 };
 export const supportedSocialMediaSchema = z.enum(supportedSocialMedia);
 export type SupportedSocialMedia = z.infer<typeof supportedSocialMediaSchema>;
@@ -147,6 +150,9 @@ export const getSocialMediaByUrl = (
   if (hostname.includes("linkedin")) {
     return "Linkedin";
   }
+  if (hostname.includes("medium")) {
+    return "Medium";
+  }
 };
 
 export const getSubtitleByUrl = (url: string) => {
@@ -166,6 +172,7 @@ export const getSubtitleByUrl = (url: string) => {
     case "Linkedin":
       return "@" + pathname.split("/")[2];
     case "Figma":
+    case "Medium":
       return pathname.split("/")[1];
     case "Gitlab":
     case "Github":

@@ -28,6 +28,7 @@ const urls = [
   "https://www.instagram.com/example_user",
   "https://layers.to/princemirxcle",
   "https://www.linkedin.com/in/jkominovic/",
+  "https://medium.com/@andrew.bestbier",
 ];
 
 export default function Home({ searchParams }: any) {
