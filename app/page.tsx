@@ -16,10 +16,10 @@ const sizes: Exclude<BentoLogoProps["size"], undefined>[] = [
 
 const urls = [
   "https://www.behance.net/example_user",
-  "https://www.buymeacoffee.com/example_user",
-  "https://dev.to/example_user",
+  "https://buymeacoffee.com/drumscribe",
+  "https://dev.to/juliankominovic",
   "https://discord.gg/example_invite",
-  "https://dribbble.com/example_user",
+  "https://dribbble.com/DKNG",
   "juliankominovic@gmail.com",
   "https://www.facebook.com/example_user",
   "https://www.figma.com/@juliankominovic",
@@ -240,7 +240,7 @@ export default function Home({ searchParams }: any) {
                   >
                     <Image
                       className="h-fit"
-                      src={"/api/bento-cards?url=" + url + "&size=" + size}
+                      src={"/api/test?url=" + url + "&size=" + size}
                       alt={url}
                       width={width}
                       height={height}
