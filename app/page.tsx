@@ -52,7 +52,8 @@ export default function Home({ searchParams }: any) {
     process.env.NODE_ENV === "development"
       ? "http://localhost:3000"
       : "https://bentos.jkominovic.dev";
-  const generatedUrl = baseApiUrl + "/api/bento-cards?" + urlObject.toString();
+  const generatedUrl =
+    baseApiUrl + "/api/v1/bento-cards?" + urlObject.toString();
 
   const markdownToCopy =
     generatedUrl && url
@@ -60,13 +61,13 @@ export default function Home({ searchParams }: any) {
       : "";
 
   return (
-    <main className="gap-8 min-h-screen max-w-screen-lg mx-auto px-4 py-8 sm:p-12">
+    <main className="max-w-screen-lg min-h-screen gap-8 px-4 pt-24 pb-8 mx-auto overflow-x-hidden sm:p-12">
       <section className="mb-8">
-        <p className="text-8xl text-center mb-6">🍱</p>
-        <h1 className="font-semibold text-5xl text-center">
+        <p className="mb-6 text-center text-8xl">🍱</p>
+        <h1 className="text-5xl font-semibold text-center">
           Github readme bento
         </h1>
-        <p className="text-center text-black/60 mt-2">
+        <p className="mt-2 text-center text-black/60">
           Beatiful bento cards for your readme. Thanks to{" "}
           <a
             href="https://www.figma.com/@double_glitch"
@@ -78,11 +79,11 @@ export default function Home({ searchParams }: any) {
           for the figma design.
         </p>
       </section>
-      <ul className="flex flex-wrap gap-4 justify-center mb-16">
+      <ul className="flex flex-wrap justify-center gap-4 mb-16">
         {supportedSocialMedia.map((social) => {
           const icon = supportedSocialMediaIcons[social] as any;
           return (
-            <li key={social} className="flex gap-2 items-center text-xl">
+            <li key={social} className="flex items-center gap-2 text-xl">
               {icon && icon.path ? (
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -102,13 +103,13 @@ export default function Home({ searchParams }: any) {
       <section className="my-6">
         <form
           action={setBentoSettings}
-          className="flex gap-3 sm:flex-row flex-col items-end justify-center"
+          className="flex flex-col items-end justify-center gap-3 sm:flex-row"
         >
-          <label className="block w-full sm:w-fit flex-grow" htmlFor="url">
+          <label className="flex-grow block w-full sm:w-fit" htmlFor="url">
             URL
             <input
               defaultValue={url}
-              className="w-full p-2 border border-black/10 rounded-lg"
+              className="w-full p-2 border rounded-lg border-black/10"
               type="text"
               name="url"
               id="url"
@@ -118,7 +119,7 @@ export default function Home({ searchParams }: any) {
           <label className="block w-full sm:w-fit" htmlFor="subtitle">
             Subtitle
             <input
-              className="w-full p-2 border border-black/10 rounded-lg"
+              className="w-full p-2 border rounded-lg border-black/10"
               type="text"
               name="subtitle"
               id="subtitle"
@@ -129,7 +130,7 @@ export default function Home({ searchParams }: any) {
           <label className="block w-full sm:w-fit" htmlFor="size">
             Size
             <select
-              className="w-full p-2 border border-black/10 rounded-lg"
+              className="w-full p-2 border rounded-lg border-black/10"
               name="size"
               id="size"
               defaultValue={size}
@@ -146,7 +147,7 @@ export default function Home({ searchParams }: any) {
           <label className="block w-full sm:w-min" htmlFor="rounded">
             Rounded
             <input
-              className="w-full p-2 border border-black/10 rounded-lg"
+              className="w-full p-2 border rounded-lg border-black/10"
               type="number"
               name="rounded"
               min={0}
@@ -156,7 +157,7 @@ export default function Home({ searchParams }: any) {
             />
           </label>
           <button
-            className="sm:w-fit w-full py-2 px-4 bg-black text-white rounded-lg"
+            className="w-full px-4 py-2 text-white bg-black rounded-lg sm:w-fit"
             type="submit"
           >
             Generate
@@ -165,20 +166,20 @@ export default function Home({ searchParams }: any) {
       </section>
       {markdownToCopy && (
         <>
-          <h3 className="font-semibold mb-2">
+          <h3 className="mb-2 font-semibold">
             Markdown
-            <span className="text-black/60 font-normal text-sm ml-2">
+            <span className="ml-2 text-sm font-normal text-black/60">
               (paste it in your readme)
             </span>
           </h3>
-          <code className="rounded-lg border gap-4 border-black/10 bg-white flex justify-between p-2 items-center mb-4 text-sm">
+          <code className="flex items-center justify-between gap-4 p-2 mb-4 text-sm bg-white border rounded-lg border-black/10">
             <pre className="overflow-hidden whitespace-normal">
               {markdownToCopy}
             </pre>
             <CopyButton textToCopy={markdownToCopy} />
           </code>
           <Image
-            className="h-fit mx-auto"
+            className="mx-auto h-fit"
             src={generatedUrl}
             alt={url}
             width={width}
@@ -189,73 +190,77 @@ export default function Home({ searchParams }: any) {
         </>
       )}
 
-      <section className="flex flex-col gap-4 mt-32 justify-center">
-        <h2 className="text-2xl mb-6 font-semibold text-center">Docs</h2>
-        <h3 className="font-semibold text-lg">Get social media bento card</h3>
-        <div className="flex gap-2 items-center mb-4 rounded-xl w-fit">
+      <section className="flex flex-col justify-center gap-4 mt-32">
+        <h2 className="mb-6 text-2xl font-semibold text-center">Docs</h2>
+        <h3 className="text-lg font-semibold">Get social media bento card</h3>
+        <div className="flex items-center gap-2 mb-4 rounded-xl w-fit">
           <span className="font-medium px-1 py-0.5 border border-blue-500 rounded-full text-xs bg-blue-200">
             GET
           </span>
-          <span>/api/bento-cards</span>
+          <span>/api/v1/bento-cards</span>
         </div>
-        <table className="rounded-lg overflow-hidden border border-black/10">
-          <thead>
-            <tr>
-              <th className="text-left">Query</th>
-              <th className="text-left">Value</th>
-              <th className="text-left">Default</th>
+        <table className="block overflow-x-auto border rounded-lg whitespace-nowrap border-black/10">
+          <thead className="border-b bg-black/[0.03] border-black/10">
+            <tr className="">
+              <th className="py-2 pl-4 text-left min-w-52">Query</th>
+              <th className="py-2 pl-4 text-left min-w-52">Value</th>
+              <th className="py-2 pl-4 text-left min-w-52">Default</th>
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td>url</td>
-              <td>string</td>
-              <td>https://www.behance.net/example_user</td>
+            <tr className="border-b border-black/10">
+              <td className="px-4 py-4">
+                url<span className="text-red-600">*</span>
+              </td>
+              <td className="px-4 py-4">string</td>
+              <td className="px-4 py-4">
+                https://www.behance.net/example_user
+              </td>
             </tr>
-            <tr>
-              <td>subtitle</td>
-              <td>string</td>
-              <td>Example user</td>
+            <tr className="border-b border-black/10">
+              <td className="px-4 py-4">size</td>
+              <td className="px-4 py-4">square | wide | tall</td>
+              <td className="px-4 py-4">square</td>
             </tr>
-            <tr>
-              <td>size</td>
-              <td>square | wide | tall</td>
-              <td>square</td>
+            <tr className="border-b border-black/10">
+              <td className="px-4 py-4">subtitle</td>
+              <td className="px-4 py-4">string</td>
+              <td className="px-4 py-4">Detected username</td>
             </tr>
-            <tr>
-              <td>rounded</td>
-              <td>number</td>
-              <td>24</td>
+            <tr className="border-b border-black/10">
+              <td className="px-4 py-4">rounded</td>
+              <td className="px-4 py-4">number</td>
+              <td className="px-4 py-4">24</td>
             </tr>
           </tbody>
         </table>
         <p>
           Example:{" "}
           <a
-            href="http://bentos.jkominovic.dev/api/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24"
+            href="http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24"
             target="_blank"
             rel="noopener noreferrer"
-            className="underline underline-offset-2"
+            className="block underline break-all underline-offset-2"
           >
-            http://bentos.jkominovic.dev/api/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24
+            http://bentos.jkominovic.dev/api/v1/bento-cards?url=https://github.com/JulianKominovic/JulianKominovic&subtitle=testing&size=square&rounded=24
           </a>
         </p>
       </section>
-      <section className="flex flex-col gap-4 mt-32 justify-center">
-        <h2 className="text-2xl mb-6 font-semibold text-center">Showcase</h2>
+      <section className="flex flex-col justify-center gap-4 mt-32">
+        <h2 className="mb-6 text-2xl font-semibold text-center">Showcase</h2>
         {sizes.flatMap((size) => {
           const { height, width } = getBentoCardSizes(size);
           return (
-            <ul className="flex flex-wrap gap-4 justify-center">
+            <ul className="flex flex-wrap justify-center gap-4">
               {urls.map((url) => {
                 return (
                   <li
                     key={size + url}
-                    className="flex flex-col gap-2 items-center"
+                    className="flex flex-col items-center gap-2"
                   >
                     <Image
                       className="h-fit"
-                      src={"/api/bento-cards?url=" + url + "&size=" + size}
+                      src={"/api/v1/bento-cards?url=" + url + "&size=" + size}
                       alt={url}
                       width={width}
                       height={height}
