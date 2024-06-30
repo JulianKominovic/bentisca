@@ -359,7 +359,8 @@ export default function Github({
         x={24}
         fill="#FBFBFB"
         style={{
-          fontFamily: "sans-serif",
+          fontFamily:
+            "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
           fontSize: 16,
           fontWeight: 600,
         }}
@@ -372,7 +373,8 @@ export default function Github({
         x={24}
         fill="#FBFBFB"
         style={{
-          fontFamily: "sans-serif",
+          fontFamily:
+            "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
           fontSize: 14,
           fontWeight: 300,
         }}

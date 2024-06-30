@@ -45,7 +45,7 @@ const injectedtext = replacedSvgTag.replace(
         x={24}
         fill="#FBFBFB"
         style={{
-          fontFamily: "sans-serif",
+          fontFamily:  "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
           fontSize: 16,
           fontWeight: 600,
         }}
@@ -57,7 +57,7 @@ const injectedtext = replacedSvgTag.replace(
         y={height - 24}
         x={24}
         fill="#FBFBFB"
-        style={{ fontFamily: "sans-serif", fontSize: 14, fontWeight: 300 }}
+        style={{ fontFamily:  "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'", fontSize: 14, fontWeight: 300 }}
       >
          {children && children.length > width / 9
           ? children.slice(0, width / 9) + "..."

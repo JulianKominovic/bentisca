@@ -2,7 +2,7 @@ import BentoCard from "@/components/BentoCard";
 import { roundedSizeSchema, sizeSchema } from "@/const/bento-cards";
 import { NextRequest } from "next/server";
 import { z } from "zod";
-import sharp from "sharp";
+// import sharp from "sharp";
 
 export async function GET(req: NextRequest) {
   const searchParams = Object.fromEntries(req.nextUrl.searchParams.entries());
@@ -34,16 +34,21 @@ export async function GET(req: NextRequest) {
     });
   }
   const svgString = ReactDOMServer.renderToStaticMarkup(Component);
-
-  const imageBuffer = await sharp(Buffer.from(svgString), { density: 400 })
-    .avif()
-    .toBuffer();
-
-  return new Response(imageBuffer, {
+  return new Response(svgString, {
     headers: {
-      "Content-Type": "image/avif",
-      // cache forever
+      "Content-Type": "image/svg+xml",
       "Cache-Control": "public, max-age=31536000, immutable",
     },
   });
+  // const imageBuffer = await sharp(Buffer.from(svgString), { density: 400 })
+  //   .avif()
+  //   .toBuffer();
+
+  // return new Response(imageBuffer, {
+  //   headers: {
+  //     "Content-Type": "image/avif",
+  //     // cache forever
+  //     "Cache-Control": "public, max-age=31536000, immutable",
+  //   },
+  // });
 }
