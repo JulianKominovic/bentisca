@@ -36,6 +36,7 @@ const urls = [
   "https://www.twitch.tv/nickdaboom",
   "https://www.x.com/DamianCatanzaro/status/1803185953252507827",
   "https://twitter.com/juliankominovic",
+  "https://www.youtube.com/@Fireship",
 ];
 
 export default function Home({ searchParams }: any) {

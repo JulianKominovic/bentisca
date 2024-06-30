@@ -19,6 +19,7 @@ import {
   siTiktok,
   siTwitch,
   siX,
+  siYoutube,
 } from "simple-icons";
 import { z } from "zod";
 
@@ -44,6 +45,7 @@ export const supportedSocialMedia = [
   "Twitch",
   "Twitter",
   "X",
+  "Youtube",
 ] as const;
 export const supportedSocialMediaIcons: Record<
   SupportedSocialMedia,
@@ -106,6 +108,7 @@ export const supportedSocialMediaIcons: Record<
     </svg>
   ),
   X: siX,
+  Youtube: siYoutube,
 };
 export const supportedSocialMediaSchema = z.enum(supportedSocialMedia);
 export type SupportedSocialMedia = z.infer<typeof supportedSocialMediaSchema>;
@@ -206,6 +209,9 @@ export const getSocialMediaByUrl = (
   if (hostname.includes("x.com")) {
     return "Twitter";
   }
+  if (hostname.includes("youtube")) {
+    return "Youtube";
+  }
 };
 
 export const getSubtitleByUrl = (url: string) => {
@@ -232,6 +238,7 @@ export const getSubtitleByUrl = (url: string) => {
     case "Figma":
     case "Medium":
     case "Tiktok":
+    case "Youtube":
       return pathname.split("/")[1];
     case "Gitlab":
     case "Github":
