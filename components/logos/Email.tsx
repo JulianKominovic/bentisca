@@ -29,8 +29,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M77.014 79.918c-.729 1.373-.783 2.666-.89 5.253a145.71 145.71 0 0 0 .035 12.86c.1 2.12.15 3.179.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.759 4.502.837 2.811.105 6.585.182 11.608.182 5.069 0 8.867-.078 11.686-.185 2.043-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.781-2.399.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.121-6.118-.102-2.528-.153-3.792-.882-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.669-.78-5.259-.883A273.627 273.627 0 0 0 96 76c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.509 1.509 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L83.055 82.37Z"
             fill="#fff"
           />
@@ -50,8 +50,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M73.014 75.918c-.729 1.373-.783 2.666-.89 5.253a145.71 145.71 0 0 0 .035 12.86c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.759 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.043-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.781-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.121-6.118-.102-2.528-.153-3.792-.882-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.669-.78-5.259-.883A273.635 273.635 0 0 0 92 72c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.509 1.509 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L79.055 78.37Z"
             fill="#fff"
           />
@@ -71,8 +71,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M69.014 71.918c-.729 1.373-.783 2.666-.89 5.253a145.71 145.71 0 0 0 .035 12.86c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.043-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.781-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.121-6.118-.102-2.528-.153-3.792-.882-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.669-.78-5.259-.883A273.629 273.629 0 0 0 88 68c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.509 1.509 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L75.055 74.37Z"
             fill="#fff"
           />
@@ -92,8 +92,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M65.014 67.918c-.729 1.373-.783 2.666-.89 5.253a145.71 145.71 0 0 0 .035 12.86c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.781-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.121-6.118-.102-2.528-.153-3.792-.882-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 84 64c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L71.055 70.37Z"
             fill="#fff"
           />
@@ -113,8 +113,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M57.014 59.918c-.729 1.373-.783 2.666-.89 5.253a145.71 145.71 0 0 0 .035 12.86c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 76 56c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L63.055 62.37Z"
             fill="#fff"
           />
@@ -134,8 +134,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M49.014 51.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 68 48c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L55.055 54.37Z"
             fill="#fff"
           />
@@ -155,8 +155,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M41.014 43.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 60 40c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L47.055 46.37Z"
             fill="#fff"
           />
@@ -176,8 +176,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M40.014 42.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 59 39c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L46.055 45.37Z"
             fill="#fff"
           />
@@ -197,8 +197,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M36.014 38.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 55 35c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L42.055 41.37Z"
             fill="#fff"
           />
@@ -218,8 +218,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M32.014 34.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.728-2.67-.78-5.259-.883A273.629 273.629 0 0 0 51 31c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L38.055 37.37Z"
             fill="#fff"
           />
@@ -239,8 +239,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M30.014 32.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.727-2.67-.78-5.259-.883A273.629 273.629 0 0 0 49 29c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L36.055 35.37Z"
             fill="#fff"
           />
@@ -260,8 +260,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M28.014 30.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.727-2.67-.78-5.259-.883A273.629 273.629 0 0 0 47 27c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L34.055 33.37Z"
             fill="#fff"
           />
@@ -281,8 +281,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M27.014 29.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.727-2.67-.78-5.259-.883A273.629 273.629 0 0 0 46 26c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L33.055 32.37Z"
             fill="#fff"
           />
@@ -302,8 +302,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M26.014 28.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.727-2.67-.78-5.259-.883A273.629 273.629 0 0 0 45 25c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L32.055 31.37Z"
             fill="#fff"
           />
@@ -323,8 +323,8 @@ export default function Email({
           height="49"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M25.514 28.418c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.727-2.67-.78-5.259-.883A273.629 273.629 0 0 0 44.5 24.5c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L31.555 30.87Z"
             fill="#fff"
           />
@@ -344,8 +344,8 @@ export default function Email({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M25.014 27.918c-.729 1.373-.783 2.666-.89 5.254a145.71 145.71 0 0 0 .035 12.859c.1 2.12.15 3.18.884 4.545.53.986 1.856 2.3 2.847 2.82 1.373.72 2.416.76 4.502.837 2.811.105 6.585.182 11.608.182 5.07 0 8.867-.078 11.686-.185 2.042-.077 3.064-.116 4.437-.837.982-.517 2.321-1.844 2.846-2.822.733-1.367.78-2.4.876-4.463.091-1.96.155-4.273.155-6.9 0-2.286-.048-4.334-.12-6.118-.103-2.528-.154-3.792-.883-5.166-.56-1.057-1.784-2.28-2.841-2.84-1.375-.727-2.67-.78-5.259-.883A273.629 273.629 0 0 0 44 24c-4.368 0-7.964.085-10.816.198-2.636.104-3.953.157-5.327.883-1.066.564-2.277 1.773-2.843 2.837Zm6.04 2.453a1.55 1.55 0 0 0-2.147.342 1.51 1.51 0 0 0 .346 2.124l10.243 7.312a7.765 7.765 0 0 0 9.008 0l10.243-7.312a1.51 1.51 0 0 0 .346-2.124 1.55 1.55 0 0 0-2.148-.342l-10.243 7.313a4.659 4.659 0 0 1-5.404 0L31.055 30.37Z"
             fill="#fff"
           />
@@ -391,9 +391,9 @@ export default function Email({
           width="144"
           height="144"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -407,9 +407,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -436,9 +436,9 @@ export default function Email({
           width="136"
           height="136"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -452,9 +452,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -481,9 +481,9 @@ export default function Email({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -497,9 +497,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -526,9 +526,9 @@ export default function Email({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -542,9 +542,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -571,9 +571,9 @@ export default function Email({
           width="112"
           height="112"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -587,9 +587,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -616,9 +616,9 @@ export default function Email({
           width="104"
           height="104"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -632,9 +632,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -661,9 +661,9 @@ export default function Email({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -677,9 +677,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -706,9 +706,9 @@ export default function Email({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -722,9 +722,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -751,9 +751,9 @@ export default function Email({
           width="80"
           height="80"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -767,9 +767,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -796,9 +796,9 @@ export default function Email({
           width="68"
           height="68"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -812,9 +812,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -841,9 +841,9 @@ export default function Email({
           width="60"
           height="60"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -857,9 +857,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -886,9 +886,9 @@ export default function Email({
           width="56"
           height="56"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -902,9 +902,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -931,9 +931,9 @@ export default function Email({
           width="54"
           height="54"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -947,9 +947,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -976,9 +976,9 @@ export default function Email({
           width="52"
           height="52"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -992,9 +992,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1021,9 +1021,9 @@ export default function Email({
           width="50"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1037,9 +1037,9 @@ export default function Email({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1066,9 +1066,9 @@ export default function Email({
           width="49.5"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1103,8 +1103,8 @@ export default function Email({
           y2="175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#1F3E6D" />
-          <stop offset="1" stop-color="#00154A" />
+          <stop stopColor="#1F3E6D" />
+          <stop offset="1" stopColor="#00154A" />
         </linearGradient>
         <linearGradient
           id="W"
@@ -1114,8 +1114,8 @@ export default function Email({
           y2="71.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#fff" />
-          <stop offset="1" stop-color="#BDCFF5" />
+          <stop stopColor="#fff" />
+          <stop offset="1" stopColor="#BDCFF5" />
         </linearGradient>
       </defs>
     </svg>

@@ -368,9 +368,9 @@ export default function Instagram({
           width="144"
           height="144"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -384,9 +384,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -413,9 +413,9 @@ export default function Instagram({
           width="136"
           height="136"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -429,9 +429,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -458,9 +458,9 @@ export default function Instagram({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -474,9 +474,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -503,9 +503,9 @@ export default function Instagram({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -519,9 +519,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -548,9 +548,9 @@ export default function Instagram({
           width="112"
           height="112"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -564,9 +564,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -593,9 +593,9 @@ export default function Instagram({
           width="104"
           height="104"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -609,9 +609,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -638,9 +638,9 @@ export default function Instagram({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -654,9 +654,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -683,9 +683,9 @@ export default function Instagram({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -699,9 +699,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -728,9 +728,9 @@ export default function Instagram({
           width="80"
           height="80"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -744,9 +744,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -773,9 +773,9 @@ export default function Instagram({
           width="68"
           height="68"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -789,9 +789,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -818,9 +818,9 @@ export default function Instagram({
           width="60"
           height="60"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -834,9 +834,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -863,9 +863,9 @@ export default function Instagram({
           width="56"
           height="56"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -879,9 +879,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -908,9 +908,9 @@ export default function Instagram({
           width="54"
           height="54"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -924,9 +924,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -953,9 +953,9 @@ export default function Instagram({
           width="52"
           height="52"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -969,9 +969,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -998,9 +998,9 @@ export default function Instagram({
           width="50"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1014,9 +1014,9 @@ export default function Instagram({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1043,9 +1043,9 @@ export default function Instagram({
           width="49.5"
           height="49.5"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1080,9 +1080,9 @@ export default function Instagram({
           gradientUnits="userSpaceOnUse"
           gradientTransform="rotate(-52.534 207.536 72.185) scale(221.112)"
         >
-          <stop stop-color="#FFDA55" />
-          <stop offset=".454" stop-color="#F03D63" />
-          <stop offset="1" stop-color="#B72DC0" />
+          <stop stopColor="#FFDA55" />
+          <stop offset=".454" stopColor="#F03D63" />
+          <stop offset="1" stopColor="#B72DC0" />
         </radialGradient>
         <radialGradient
           id="b"
@@ -1092,8 +1092,8 @@ export default function Instagram({
           gradientUnits="userSpaceOnUse"
           gradientTransform="rotate(48.724 -5.094 19.604) scale(119.754)"
         >
-          <stop offset=".248" stop-color="#3C93E3" />
-          <stop offset="1" stop-color="#3C93E3" stop-opacity="0" />
+          <stop offset=".248" stopColor="#3C93E3" />
+          <stop offset="1" stopColor="#3C93E3" stopOpacity="0" />
         </radialGradient>
         <linearGradient
           id="X"
@@ -1103,8 +1103,8 @@ export default function Instagram({
           y2="71.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#fff" />
-          <stop offset="1" stop-color="#F5C4FF" />
+          <stop stopColor="#fff" />
+          <stop offset="1" stopColor="#F5C4FF" />
         </linearGradient>
       </defs>
     </svg>

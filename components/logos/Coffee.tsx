@@ -28,7 +28,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#c)">
+          <g clipPath="url(#c)">
             <path
               d="M91.219 94.94c-1.48.63-3.158 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.134.11 2.846.11.766 0 3.064-.11 3.064-.11.647 0 1.271-.243 1.748-.68.477-.437.77-1.036.824-1.678L97.364 94.3c-.72-.245-1.448-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -53,7 +53,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#g)">
+          <g clipPath="url(#g)">
             <path
               d="M87.219 90.94c-1.48.63-3.158 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.134.11 2.846.11.766 0 3.064-.11 3.064-.11.647 0 1.271-.243 1.748-.68.477-.437.77-1.036.824-1.678L93.364 90.3c-.72-.245-1.448-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -78,7 +78,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#k)">
+          <g clipPath="url(#k)">
             <path
               d="M83.219 86.94c-1.48.63-3.158 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.134.11 2.846.11.766 0 3.064-.11 3.064-.11.647 0 1.271-.243 1.748-.68.477-.437.77-1.036.824-1.678L89.364 86.3c-.72-.245-1.448-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -103,7 +103,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#o)">
+          <g clipPath="url(#o)">
             <path
               d="M79.219 82.94c-1.48.63-3.158 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.134.11 2.846.11.766 0 3.064-.11 3.064-.11.647 0 1.271-.243 1.748-.68.477-.437.77-1.036.824-1.678L85.364 82.3c-.72-.245-1.448-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -128,7 +128,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#s)">
+          <g clipPath="url(#s)">
             <path
               d="M71.219 74.94c-1.48.63-3.158 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.846.11.766 0 3.063-.11 3.063-.11.648 0 1.272-.243 1.749-.68.477-.437.77-1.036.824-1.678L77.364 74.3c-.72-.245-1.448-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -153,7 +153,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#w)">
+          <g clipPath="url(#w)">
             <path
               d="M63.219 66.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.272-.243 1.749-.68.477-.437.77-1.036.824-1.678L69.364 66.3c-.72-.245-1.448-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -178,7 +178,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#A)">
+          <g clipPath="url(#A)">
             <path
               d="M55.219 58.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L61.364 58.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -203,7 +203,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#E)">
+          <g clipPath="url(#E)">
             <path
               d="M54.219 57.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L60.364 57.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -228,7 +228,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#I)">
+          <g clipPath="url(#I)">
             <path
               d="M50.219 53.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L56.364 53.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -253,7 +253,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#M)">
+          <g clipPath="url(#M)">
             <path
               d="M46.219 49.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L52.364 49.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -278,7 +278,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#Q)">
+          <g clipPath="url(#Q)">
             <path
               d="M44.219 47.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.381c.053.643.347 1.243.824 1.68.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L50.364 47.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -303,7 +303,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#U)">
+          <g clipPath="url(#U)">
             <path
               d="M42.219 45.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L48.364 45.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -328,7 +328,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#Y)">
+          <g clipPath="url(#Y)">
             <path
               d="M41.219 44.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L47.364 44.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -353,7 +353,7 @@ export default function Coffee({
           width="29"
           height="41"
         >
-          <g clip-path="url(#ac)">
+          <g clipPath="url(#ac)">
             <path
               d="M40.219 43.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L46.364 43.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -378,7 +378,7 @@ export default function Coffee({
           width="29"
           height="42"
         >
-          <g clip-path="url(#ag)">
+          <g clipPath="url(#ag)">
             <path
               d="M39.719 43.44c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L45.864 42.8c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
               fill="#EFEFEF"
@@ -394,7 +394,7 @@ export default function Coffee({
         </g>
       </g>
       <g filter="url(#aj)">
-        <g clip-path="url(#ak)">
+        <g clipPath="url(#ak)">
           <path
             d="M39.219 42.94c-1.48.63-3.159 1.345-5.334 1.345a10.138 10.138 0 0 1-2.693-.37l1.505 15.382c.053.642.347 1.242.824 1.679.477.437 1.1.679 1.749.679 0 0 2.133.11 2.845.11.767 0 3.064-.11 3.064-.11.648 0 1.273-.243 1.749-.68.477-.437.77-1.036.824-1.678L45.364 42.3c-.72-.245-1.447-.407-2.267-.407-1.417-.001-2.56.485-3.878 1.047Z"
             fill="#EFEFEF"
@@ -442,9 +442,9 @@ export default function Coffee({
           width="124.465"
           height="137"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -458,9 +458,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -487,9 +487,9 @@ export default function Coffee({
           width="116.465"
           height="129"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -503,9 +503,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -532,9 +532,9 @@ export default function Coffee({
           width="108.465"
           height="121"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -548,9 +548,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -577,9 +577,9 @@ export default function Coffee({
           width="108.465"
           height="121"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -593,9 +593,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -622,9 +622,9 @@ export default function Coffee({
           width="92.465"
           height="105"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -638,9 +638,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -667,9 +667,9 @@ export default function Coffee({
           width="84.465"
           height="97"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -683,9 +683,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -712,9 +712,9 @@ export default function Coffee({
           width="76.465"
           height="89"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -728,9 +728,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -757,9 +757,9 @@ export default function Coffee({
           width="76.465"
           height="89"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -773,9 +773,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -802,9 +802,9 @@ export default function Coffee({
           width="60.465"
           height="73"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -818,9 +818,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -847,9 +847,9 @@ export default function Coffee({
           width="48.465"
           height="61"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -863,9 +863,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -892,9 +892,9 @@ export default function Coffee({
           width="40.465"
           height="53"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -908,9 +908,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -937,9 +937,9 @@ export default function Coffee({
           width="36.465"
           height="49"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -953,9 +953,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -982,9 +982,9 @@ export default function Coffee({
           width="34.465"
           height="47"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -998,9 +998,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1027,9 +1027,9 @@ export default function Coffee({
           width="32.465"
           height="45"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -1043,9 +1043,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1072,9 +1072,9 @@ export default function Coffee({
           width="30.465"
           height="43"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1088,9 +1088,9 @@ export default function Coffee({
           width="36.465"
           height="48.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1117,9 +1117,9 @@ export default function Coffee({
           width="29.965"
           height="43"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1270,8 +1270,8 @@ export default function Coffee({
           y2="175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FAE5A9" />
-          <stop offset="1" stop-color="#FFCE21" />
+          <stop stopColor="#FAE5A9" />
+          <stop offset="1" stopColor="#FFCE21" />
         </linearGradient>
       </defs>
     </svg>

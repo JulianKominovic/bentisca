@@ -29,8 +29,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M95.5 76C84.726 76 76 84.718 76 95.48c0 8.621 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.926 0-.462-.024-1.996-.024-3.628-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.756 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.872-2.167-8.872-9.618 0-2.119.755-3.872 1.998-5.236-.195-.487-.877-2.483.195-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.729-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.609 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.121 1.341.926 7.702-2.581 13.284-9.887 13.284-18.482C115 84.718 106.274 76 95.5 76Z"
             fill="#fff"
           />
@@ -50,8 +50,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M91.5 72C80.726 72 72 80.718 72 91.48c0 8.621 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.926 0-.462-.024-1.996-.024-3.628-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.756 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.872-2.167-8.872-9.618 0-2.119.755-3.872 1.998-5.236-.195-.487-.877-2.483.195-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.729-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.609 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.121 1.34.926 7.703-2.581 13.285-9.887 13.285-18.482C111 80.718 102.274 72 91.5 72Z"
             fill="#fff"
           />
@@ -71,8 +71,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M87.5 68C76.726 68 68 76.718 68 87.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.926 0-.462-.024-1.996-.024-3.628-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.756 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.872-2.167-8.872-9.618 0-2.119.755-3.872 1.998-5.236-.195-.487-.877-2.483.195-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.121 1.34.926C101.419 103.382 107 96.076 107 87.481 107 76.718 98.274 68 87.5 68Z"
             fill="#fff"
           />
@@ -92,8 +92,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M83.5 64C72.726 64 64 72.718 64 83.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.926 0-.462-.024-1.996-.024-3.628-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.756 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.872-2.167-8.872-9.618 0-2.119.755-3.872 1.998-5.236-.195-.487-.877-2.483.195-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.121 1.34.926C97.419 99.382 103 92.076 103 83.481 103 72.718 94.274 64 83.5 64Z"
             fill="#fff"
           />
@@ -113,8 +113,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M75.5 56C64.726 56 56 64.718 56 75.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.756 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.872-2.167-8.872-9.618 0-2.119.755-3.872 1.998-5.236-.195-.487-.877-2.483.195-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C89.419 91.382 95 84.076 95 75.48 95 64.718 86.274 56 75.5 56Z"
             fill="#fff"
           />
@@ -134,8 +134,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M67.5 48C56.726 48 48 56.718 48 67.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C81.419 83.382 87 76.076 87 67.48 87 56.718 78.274 48 67.5 48Z"
             fill="#fff"
           />
@@ -155,8 +155,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M59.5 40C48.726 40 40 48.718 40 59.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C73.419 75.382 79 68.076 79 59.48 79 48.718 70.274 40 59.5 40Z"
             fill="#fff"
           />
@@ -176,8 +176,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M58.5 39C47.726 39 39 47.718 39 58.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.475-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C72.419 74.382 78 67.076 78 58.48 78 47.718 69.274 39 58.5 39Z"
             fill="#fff"
           />
@@ -197,8 +197,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M54.5 35C43.726 35 35 43.718 35 54.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C68.419 70.382 74 63.076 74 54.48 74 43.718 65.274 35 54.5 35Z"
             fill="#fff"
           />
@@ -218,8 +218,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M50.5 31C39.726 31 31 39.718 31 50.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C64.419 66.382 70 59.076 70 50.48 70 39.718 61.274 31 50.5 31Z"
             fill="#fff"
           />
@@ -239,8 +239,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M48.5 29C37.726 29 29 37.718 29 48.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C62.419 64.382 68 57.076 68 48.48 68 37.718 59.274 29 48.5 29Z"
             fill="#fff"
           />
@@ -260,8 +260,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M46.5 27C35.726 27 27 35.718 27 46.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.357 0 .512.366 1.12 1.34.926C60.419 62.382 66 55.076 66 46.48 66 35.718 57.274 27 46.5 27Z"
             fill="#fff"
           />
@@ -281,8 +281,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M45.5 26C34.726 26 26 34.718 26 45.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.998 1.997 1.755 2.946 4.559 2.118 5.68 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.358 0 .51.366 1.12 1.34.925C59.419 61.382 65 54.076 65 45.48 65 34.718 56.274 26 45.5 26Z"
             fill="#fff"
           />
@@ -302,8 +302,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M44.5 25C33.726 25 25 33.718 25 44.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.999 1.997 1.755 2.946 4.558 2.118 5.679 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.358 0 .51.366 1.12 1.34.925C58.419 60.382 64 53.076 64 44.48 64 33.718 55.274 25 44.5 25Z"
             fill="#fff"
           />
@@ -323,8 +323,8 @@ export default function Github({
           height="49"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M44 24.5c-10.774 0-19.5 8.718-19.5 19.48 0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.999 1.997 1.755 2.946 4.558 2.118 5.679 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.358 0 .51.366 1.12 1.34.925C57.919 59.882 63.5 52.576 63.5 43.98 63.5 33.218 54.774 24.5 44 24.5Z"
             fill="#fff"
           />
@@ -344,8 +344,8 @@ export default function Github({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M43.5 24C32.726 24 24 32.718 24 43.48c0 8.62 5.582 15.902 13.333 18.483.975.17 1.34-.414 1.34-.925 0-.463-.024-1.997-.024-3.629-4.899.901-6.166-1.193-6.556-2.289-.22-.56-1.17-2.289-2-2.751-.682-.366-1.657-1.267-.024-1.291 1.536-.024 2.633 1.412 2.999 1.997 1.755 2.946 4.558 2.118 5.679 1.607.17-1.266.682-2.119 1.243-2.606-4.339-.487-8.873-2.167-8.873-9.618 0-2.119.756-3.872 2-5.236-.196-.487-.878-2.483.194-5.162 0 0 1.633-.511 5.363 1.997a18.109 18.109 0 0 1 4.875-.658c1.657 0 3.315.22 4.875.658 3.73-2.533 5.362-1.997 5.362-1.997 1.073 2.679.39 4.675.195 5.162 1.243 1.364 1.999 3.093 1.999 5.236 0 7.476-4.558 9.131-8.897 9.618.707.61 1.316 1.778 1.316 3.604 0 2.606-.024 4.7-.024 5.358 0 .51.366 1.12 1.34.925C57.419 59.382 63 52.076 63 43.48 63 32.718 54.274 24 43.5 24Z"
             fill="#fff"
           />
@@ -391,9 +391,9 @@ export default function Github({
           width="144"
           height="144"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -407,9 +407,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -436,9 +436,9 @@ export default function Github({
           width="136"
           height="136"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -452,9 +452,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -481,9 +481,9 @@ export default function Github({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -497,9 +497,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -526,9 +526,9 @@ export default function Github({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -542,9 +542,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -571,9 +571,9 @@ export default function Github({
           width="112"
           height="112"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -587,9 +587,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -616,9 +616,9 @@ export default function Github({
           width="104"
           height="104"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -632,9 +632,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -661,9 +661,9 @@ export default function Github({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -677,9 +677,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -706,9 +706,9 @@ export default function Github({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -722,9 +722,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -751,9 +751,9 @@ export default function Github({
           width="80"
           height="80"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -767,9 +767,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -796,9 +796,9 @@ export default function Github({
           width="68"
           height="68"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -812,9 +812,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -841,9 +841,9 @@ export default function Github({
           width="60"
           height="60"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -857,9 +857,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -886,9 +886,9 @@ export default function Github({
           width="56"
           height="56"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -902,9 +902,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -931,9 +931,9 @@ export default function Github({
           width="54"
           height="54"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -947,9 +947,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -976,9 +976,9 @@ export default function Github({
           width="52"
           height="52"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -992,9 +992,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1021,9 +1021,9 @@ export default function Github({
           width="50"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1037,9 +1037,9 @@ export default function Github({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1066,9 +1066,9 @@ export default function Github({
           width="49.5"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1103,8 +1103,8 @@ export default function Github({
           y2="175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#25262F" />
-          <stop offset="1" stop-color="#0C0D16" />
+          <stop stopColor="#25262F" />
+          <stop offset="1" stopColor="#0C0D16" />
         </linearGradient>
         <linearGradient
           id="W"
@@ -1114,8 +1114,8 @@ export default function Github({
           y2="71.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#fff" />
-          <stop offset="1" stop-color="#CDCDCD" />
+          <stop stopColor="#fff" />
+          <stop offset="1" stopColor="#CDCDCD" />
         </linearGradient>
       </defs>
     </svg>

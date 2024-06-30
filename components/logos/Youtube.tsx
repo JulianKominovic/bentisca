@@ -29,8 +29,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M113.358 76.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.786-1.901 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.22 5.22 0 0 1-3.71-3.661c-1.206-4.855-1.123-15.121-.026-19.87.484-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM92.927 84.27l10.968 6.208-10.968 6.208V84.27Z"
             fill="#fff"
           />
@@ -50,8 +50,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M109.358 72.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.901 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.484-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM88.927 80.27l10.968 6.208-10.968 6.208V80.27Z"
             fill="#fff"
           />
@@ -71,8 +71,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M105.358 68.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.901 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.484-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM84.927 76.27l10.968 6.208-10.968 6.208V76.27Z"
             fill="#fff"
           />
@@ -92,8 +92,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M101.358 64.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.901 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.484-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.952 32.797-.027ZM80.927 72.27l10.968 6.208-10.968 6.208V72.27Z"
             fill="#fff"
           />
@@ -113,8 +113,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M93.358 56.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.207-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM72.927 64.27l10.968 6.208-10.968 6.208V64.27Z"
             fill="#fff"
           />
@@ -134,8 +134,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M85.358 48.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.207-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM64.927 56.27l10.968 6.208-10.968 6.208V56.27Z"
             fill="#fff"
           />
@@ -155,8 +155,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M77.358 40.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.207-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM56.927 48.27l10.968 6.208-10.968 6.207V48.27Z"
             fill="#fff"
           />
@@ -176,8 +176,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M76.358 39.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.207-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM55.927 47.27l10.968 6.208-10.968 6.207V47.27Z"
             fill="#fff"
           />
@@ -197,8 +197,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M72.358 35.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.207-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM51.927 43.27l10.968 6.208-10.968 6.207V43.27Z"
             fill="#fff"
           />
@@ -218,8 +218,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M68.358 31.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM47.927 39.27l10.968 6.208-10.968 6.207V39.27Z"
             fill="#fff"
           />
@@ -239,8 +239,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M66.358 29.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.785 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM45.927 37.27l10.968 6.208-10.968 6.207V37.27Z"
             fill="#fff"
           />
@@ -260,8 +260,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M64.358 27.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.986 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.786 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM43.927 35.27l10.968 6.208-10.968 6.207V35.27Z"
             fill="#fff"
           />
@@ -281,8 +281,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M63.358 26.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.985 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.786 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM42.927 34.27l10.968 6.208-10.968 6.207V34.27Z"
             fill="#fff"
           />
@@ -302,8 +302,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M62.358 25.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.985 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.786 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM41.927 33.27l10.968 6.208-10.968 6.207V33.27Z"
             fill="#fff"
           />
@@ -323,8 +323,8 @@ export default function Youtube({
           height="49"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M61.858 25.368a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.985 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.786 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM41.427 32.77l10.968 6.208-10.968 6.207V32.77Z"
             fill="#fff"
           />
@@ -344,8 +344,8 @@ export default function Youtube({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M61.358 24.868a5.222 5.222 0 0 1 3.71 3.661c1.28 5.094 1.196 14.724.027 19.897-.484 1.785-1.9 3.178-3.71 3.661-5.108 1.247-27.985 1.093-32.798 0a5.222 5.222 0 0 1-3.71-3.66c-1.206-4.856-1.123-15.122-.026-19.871.483-1.786 1.9-3.178 3.71-3.661 6.828-1.406 30.367-.953 32.797-.027ZM40.927 32.27l10.968 6.208-10.968 6.207V32.27Z"
             fill="#fff"
           />
@@ -391,9 +391,9 @@ export default function Youtube({
           width="144"
           height="144"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -407,9 +407,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -436,9 +436,9 @@ export default function Youtube({
           width="136"
           height="136"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -452,9 +452,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -481,9 +481,9 @@ export default function Youtube({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -497,9 +497,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -526,9 +526,9 @@ export default function Youtube({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -542,9 +542,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -571,9 +571,9 @@ export default function Youtube({
           width="112"
           height="112"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -587,9 +587,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -616,9 +616,9 @@ export default function Youtube({
           width="104"
           height="104"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -632,9 +632,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -661,9 +661,9 @@ export default function Youtube({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -677,9 +677,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -706,9 +706,9 @@ export default function Youtube({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -722,9 +722,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -751,9 +751,9 @@ export default function Youtube({
           width="80"
           height="80"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -767,9 +767,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -796,9 +796,9 @@ export default function Youtube({
           width="68"
           height="68"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -812,9 +812,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -841,9 +841,9 @@ export default function Youtube({
           width="60"
           height="60"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -857,9 +857,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -886,9 +886,9 @@ export default function Youtube({
           width="56"
           height="56"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -902,9 +902,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -931,9 +931,9 @@ export default function Youtube({
           width="54"
           height="54"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -947,9 +947,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -976,9 +976,9 @@ export default function Youtube({
           width="52"
           height="52"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -992,9 +992,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1021,9 +1021,9 @@ export default function Youtube({
           width="50"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1037,9 +1037,9 @@ export default function Youtube({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1066,9 +1066,9 @@ export default function Youtube({
           width="49.5"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1103,8 +1103,8 @@ export default function Youtube({
           y2="175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#F03B3E" />
-          <stop offset="1" stop-color="#CF0000" />
+          <stop stopColor="#F03B3E" />
+          <stop offset="1" stopColor="#CF0000" />
         </linearGradient>
         <linearGradient
           id="W"
@@ -1114,8 +1114,8 @@ export default function Youtube({
           y2="71.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#fff" />
-          <stop offset="1" stop-color="#FFB9BA" />
+          <stop stopColor="#fff" />
+          <stop offset="1" stopColor="#FFB9BA" />
         </linearGradient>
       </defs>
     </svg>

@@ -29,8 +29,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M77.844 76 76 81.94l.042 27.404h6.872V113h3.688l3.688-3.656h6.456l11.985-11.88V76H77.844Zm27.645 19.651-5.072 5.028h-8.298l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM97.191 85.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -50,8 +50,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M73.844 72 72 77.94l.042 27.404h6.872V109h3.688l3.688-3.656h6.456l11.985-11.88V72H73.844Zm27.645 19.651-5.072 5.028H88.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM93.191 81.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -71,8 +71,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M69.844 68 68 73.94l.042 27.404h6.872V105h3.688l3.688-3.656h6.456l11.985-11.88V68H69.844Zm27.645 19.651-5.072 5.028H84.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM89.191 77.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -92,8 +92,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M65.844 64 64 69.94l.042 27.404h6.872V101h3.688l3.688-3.656h6.456l11.985-11.88V64H65.844Zm27.645 19.651-5.072 5.028H80.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM85.191 73.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -113,8 +113,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M57.844 56 56 61.94l.042 27.404h6.872V93h3.688l3.688-3.656h6.456l11.985-11.88V56H57.844Zm27.645 19.651-5.072 5.028H72.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM77.191 65.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -134,8 +134,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M49.844 48 48 53.94l.042 27.404h6.872V85h3.688l3.689-3.656h6.455l11.985-11.88V48H49.844Zm27.645 19.651-5.072 5.028H64.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM69.191 57.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -155,8 +155,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M41.844 40 40 45.94l.042 27.404h6.872V77h3.688l3.689-3.656h6.455l11.985-11.88V40H41.844Zm27.645 19.651-5.072 5.028H56.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM61.191 49.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -176,8 +176,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M40.844 39 39 44.94l.042 27.404h6.872V76h3.688l3.689-3.656h6.455l11.985-11.88V39H40.844Zm27.645 19.651-5.072 5.028H55.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM60.191 48.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -197,8 +197,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M36.844 35 35 40.94l.042 27.404h6.872V72h3.688l3.689-3.656h6.455l11.985-11.88V35H36.844Zm27.645 19.651-5.072 5.028H51.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM56.191 44.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -218,8 +218,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M32.844 31 31 36.94l.042 27.404h6.872V68h3.688l3.689-3.656h6.455l11.985-11.88V31H32.844Zm27.645 19.651-5.072 5.028H47.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM52.191 40.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -239,8 +239,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M30.844 29 29 34.94l.042 27.404h6.872V66h3.688l3.689-3.656h6.455l11.985-11.88V29H30.844Zm27.645 19.651-5.072 5.028H45.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM50.191 38.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -260,8 +260,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M28.844 27 27 32.94l.042 27.404h6.872V64h3.688l3.689-3.656h6.455l11.985-11.88V27H28.844Zm27.645 19.651-5.072 5.028H43.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM48.191 36.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -281,8 +281,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M27.844 26 26 31.94l.042 27.404h6.872V63h3.688l3.689-3.656h6.455l11.985-11.88V26H27.844Zm27.645 19.651-5.072 5.028H42.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM47.191 35.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -302,8 +302,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M26.844 25 25 30.94l.042 27.404h6.872V62h3.688l3.689-3.656h6.455l11.985-11.88V25H26.844Zm27.645 19.651-5.072 5.028H41.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM46.191 34.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -323,8 +323,8 @@ export default function Twitch({
           height="49"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M26.344 24.5 24.5 30.44l.042 27.404h6.872V61.5h3.688l3.689-3.656h6.455l11.985-11.88V24.5H26.344Zm27.645 19.651-5.072 5.028H40.62l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM45.691 33.64h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -344,8 +344,8 @@ export default function Twitch({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M25.844 24 24 29.94l.042 27.404h6.872V61h3.688l3.689-3.656h6.455l11.985-11.88V24H25.844Zm27.645 19.651-5.072 5.028H40.12l-4.61 4.57v-4.57h-6.9v-21.48h24.895v16.454l-.015-.002ZM45.191 33.14h3.243v9.14h-3.243v-9.14Zm-8.298 0h3.243v9.14h-3.243v-9.14Z"
             fill="#fff"
           />
@@ -391,9 +391,9 @@ export default function Twitch({
           width="144"
           height="144"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -407,9 +407,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -436,9 +436,9 @@ export default function Twitch({
           width="136"
           height="136"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -452,9 +452,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -481,9 +481,9 @@ export default function Twitch({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -497,9 +497,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -526,9 +526,9 @@ export default function Twitch({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -542,9 +542,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -571,9 +571,9 @@ export default function Twitch({
           width="112"
           height="112"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -587,9 +587,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -616,9 +616,9 @@ export default function Twitch({
           width="104"
           height="104"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -632,9 +632,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -661,9 +661,9 @@ export default function Twitch({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -677,9 +677,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -706,9 +706,9 @@ export default function Twitch({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -722,9 +722,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -751,9 +751,9 @@ export default function Twitch({
           width="80"
           height="80"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -767,9 +767,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -796,9 +796,9 @@ export default function Twitch({
           width="68"
           height="68"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -812,9 +812,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -841,9 +841,9 @@ export default function Twitch({
           width="60"
           height="60"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -857,9 +857,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -886,9 +886,9 @@ export default function Twitch({
           width="56"
           height="56"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -902,9 +902,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -931,9 +931,9 @@ export default function Twitch({
           width="54"
           height="54"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -947,9 +947,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -976,9 +976,9 @@ export default function Twitch({
           width="52"
           height="52"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -992,9 +992,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1021,9 +1021,9 @@ export default function Twitch({
           width="50"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1037,9 +1037,9 @@ export default function Twitch({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1066,9 +1066,9 @@ export default function Twitch({
           width="49.5"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1103,8 +1103,8 @@ export default function Twitch({
           y2="175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#9146FF" />
-          <stop offset="1" stop-color="#6209E6" />
+          <stop stopColor="#9146FF" />
+          <stop offset="1" stopColor="#6209E6" />
         </linearGradient>
         <linearGradient
           id="W"
@@ -1114,8 +1114,8 @@ export default function Twitch({
           y2="71.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#fff" />
-          <stop offset="1" stop-color="#CAA6FF" />
+          <stop stopColor="#fff" />
+          <stop offset="1" stopColor="#CAA6FF" />
         </linearGradient>
       </defs>
     </svg>

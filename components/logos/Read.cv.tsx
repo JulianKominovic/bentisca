@@ -29,8 +29,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M83.256 77.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.579 2.871c3.019.82 4.529 1.229 5.84.947a5.569 5.569 0 0 0 2.987-1.747c.897-1.008 1.301-2.537 2.11-5.595l4.123-15.585c.809-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L88.762 83.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.412a1.355 1.355 0 0 0 1.663-.972 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -50,8 +50,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M79.256 73.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.579 2.871c3.019.82 4.529 1.229 5.84.947a5.566 5.566 0 0 0 2.987-1.747c.897-1.008 1.301-2.537 2.11-5.595l4.123-15.585c.809-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L84.762 79.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.412a1.356 1.356 0 0 0 1.663-.972 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -71,8 +71,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M75.256 69.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.579 2.871c3.019.82 4.529 1.229 5.84.947a5.566 5.566 0 0 0 2.987-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.809-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L80.762 75.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.412a1.356 1.356 0 0 0 1.663-.972 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -92,8 +92,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M71.256 65.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.579 2.871c3.019.82 4.529 1.229 5.84.947a5.566 5.566 0 0 0 2.987-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L76.762 71.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.412a1.356 1.356 0 0 0 1.663-.972 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -113,8 +113,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M63.256 57.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L68.762 63.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.412a1.356 1.356 0 0 0 1.663-.972 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -134,8 +134,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M55.256 49.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L60.762 55.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.412a1.356 1.356 0 0 0 1.663-.972 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -155,8 +155,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M47.256 41.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L52.762 47.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -176,8 +176,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M46.256 40.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.579-2.871c-3.019-.82-4.529-1.23-5.84-.947a5.566 5.566 0 0 0-2.987 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L51.762 46.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -197,8 +197,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M42.256 36.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L47.762 42.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -218,8 +218,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M38.256 32.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L43.762 38.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -239,8 +239,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M36.256 30.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L41.762 36.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -260,8 +260,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M34.256 28.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L39.762 34.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -281,8 +281,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M33.256 27.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L38.762 33.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -302,8 +302,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M32.256 26.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L37.762 32.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -323,8 +323,8 @@ export default function ReadCv({
           height="49"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M31.756 26.336c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L37.262 32.07Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -344,8 +344,8 @@ export default function ReadCv({
           height="48"
         >
           <path
-            fill-rule="evenodd"
-            clip-rule="evenodd"
+            fillRule="evenodd"
+            clipRule="evenodd"
             d="M31.256 25.836c-.897 1.008-1.301 2.537-2.11 5.596l-4.123 15.584c-.81 3.058-1.214 4.587-.935 5.914a5.67 5.67 0 0 0 1.725 3.026c.995.908 2.505 1.318 5.525 2.137l10.578 2.871c3.02.82 4.53 1.23 5.84.947a5.566 5.566 0 0 0 2.988-1.747c.897-1.008 1.301-2.537 2.11-5.596l4.123-15.584c.81-3.058 1.214-4.587.935-5.914a5.67 5.67 0 0 0-1.725-3.026c-.995-.908-2.505-1.318-5.525-2.137l-10.578-2.871c-3.02-.82-4.53-1.23-5.84-.947a5.566 5.566 0 0 0-2.988 1.747Zm5.506 5.733a1.356 1.356 0 0 0-1.663.972 1.377 1.377 0 0 0 .96 1.684l13.552 3.678a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684L36.762 31.57Zm-3.224 6.875a1.356 1.356 0 0 1 1.662-.972l13.552 3.677c.724.197 1.154.95.96 1.684a1.356 1.356 0 0 1-1.663.973l-13.551-3.678a1.377 1.377 0 0 1-.96-1.684Zm.1 4.93a1.356 1.356 0 0 0-1.662.973 1.377 1.377 0 0 0 .96 1.684l8.888 2.413a1.356 1.356 0 0 0 1.663-.973 1.377 1.377 0 0 0-.96-1.684l-8.888-2.412Z"
             fill="#fff"
           />
@@ -391,9 +391,9 @@ export default function ReadCv({
           width="144"
           height="144"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="24"
@@ -407,9 +407,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -436,9 +436,9 @@ export default function ReadCv({
           width="136"
           height="136"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="22"
@@ -452,9 +452,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -481,9 +481,9 @@ export default function ReadCv({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -497,9 +497,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -526,9 +526,9 @@ export default function ReadCv({
           width="128"
           height="128"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="20"
@@ -542,9 +542,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -571,9 +571,9 @@ export default function ReadCv({
           width="112"
           height="112"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="16"
@@ -587,9 +587,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -616,9 +616,9 @@ export default function ReadCv({
           width="104"
           height="104"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="14"
@@ -632,9 +632,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -661,9 +661,9 @@ export default function ReadCv({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -677,9 +677,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -706,9 +706,9 @@ export default function ReadCv({
           width="96"
           height="96"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="12"
@@ -722,9 +722,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -751,9 +751,9 @@ export default function ReadCv({
           width="80"
           height="80"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="8"
@@ -767,9 +767,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -796,9 +796,9 @@ export default function ReadCv({
           width="68"
           height="68"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="5"
@@ -812,9 +812,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -841,9 +841,9 @@ export default function ReadCv({
           width="60"
           height="60"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="3"
@@ -857,9 +857,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -886,9 +886,9 @@ export default function ReadCv({
           width="56"
           height="56"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="2"
@@ -902,9 +902,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -931,9 +931,9 @@ export default function ReadCv({
           width="54"
           height="54"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1.5"
@@ -947,9 +947,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -976,9 +976,9 @@ export default function ReadCv({
           width="52"
           height="52"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation="1"
@@ -992,9 +992,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1021,9 +1021,9 @@ export default function ReadCv({
           width="50"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feGaussianBlur
             stdDeviation=".5"
@@ -1037,9 +1037,9 @@ export default function ReadCv({
           width="55.999"
           height="55.998"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
@@ -1066,9 +1066,9 @@ export default function ReadCv({
           width="49.5"
           height="50"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
           <feColorMatrix
             in="SourceAlpha"
@@ -1103,8 +1103,8 @@ export default function ReadCv({
           y2="175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#2B2B2B" />
-          <stop offset="1" stop-color="#111" />
+          <stop stopColor="#2B2B2B" />
+          <stop offset="1" stopColor="#111" />
         </linearGradient>
         <linearGradient
           id="W"
@@ -1114,8 +1114,8 @@ export default function ReadCv({
           y2="71.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#fff" />
-          <stop offset="1" stop-color="#CDCDCD" />
+          <stop stopColor="#fff" />
+          <stop offset="1" stopColor="#CDCDCD" />
         </linearGradient>
       </defs>
     </svg>
