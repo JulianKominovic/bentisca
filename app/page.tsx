@@ -213,9 +213,7 @@ export default function Home({ searchParams }: any) {
                 url<span className="text-red-600">*</span>
               </td>
               <td className="px-4 py-4">string</td>
-              <td className="px-4 py-4">
-                https://www.behance.net/example_user
-              </td>
+              <td className="px-4 py-4"></td>
             </tr>
             <tr className="border-b border-black/10">
               <td className="px-4 py-4">size</td>

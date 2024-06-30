@@ -1,5 +1,6 @@
 import {
   BentoLogoProps,
+  getBentoCardSizes,
   getSocialMediaByUrl,
   getSubtitleByUrl,
 } from "@/const/bento-cards";
@@ -33,7 +34,7 @@ export default function BentoCard({
 }: BentoLogoProps & { url: string; subtitle?: string }) {
   const socialMedia = getSocialMediaByUrl(url);
   const subtitle = _subtitle || getSubtitleByUrl(url);
-  if (!socialMedia) return null;
+  const { width, height } = getBentoCardSizes(size);
   switch (socialMedia) {
     case "Behance":
       return (
@@ -164,6 +165,84 @@ export default function BentoCard({
       );
 
     default:
-      return null;
+      return (
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width={width}
+          height={height}
+          fill="none"
+          style={{
+            borderRadius: rounded,
+          }}
+        >
+          <rect
+            width="100%"
+            height="100%"
+            fill="#000"
+            rx={rounded}
+            ry={rounded}
+          />
+          <text
+            style={{
+              fontFamily:
+                "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+              fontSize: 16,
+              fontWeight: 600,
+            }}
+            x="50%"
+            y={height / 2 - 30}
+            dominantBaseline="middle"
+            textAnchor="middle"
+            fill="#fff"
+          >
+            Url not supported
+          </text>
+          <text
+            style={{
+              fontFamily:
+                "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+              fontSize: 14,
+              fontWeight: 300,
+            }}
+            x="50%"
+            y={height / 2 + 20}
+            dominantBaseline="middle"
+            textAnchor="middle"
+            fill="#fff"
+          >
+            See
+          </text>
+          <text
+            style={{
+              fontFamily:
+                "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+              fontSize: 14,
+              fontWeight: 300,
+            }}
+            x="50%"
+            y={height / 2 + 35}
+            dominantBaseline="middle"
+            textAnchor="middle"
+            fill="#fff"
+          >
+            bentos.jkominovic.dev
+          </text>
+          <text
+            style={{
+              fontFamily:
+                "system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+              fontSize: 14,
+              fontWeight: 300,
+            }}
+            x="50%"
+            y={height / 2 + 50}
+            dominantBaseline="middle"
+            textAnchor="middle"
+            fill="#fff"
+          >
+            for information
+          </text>
+        </svg>
+      );
   }
 }
