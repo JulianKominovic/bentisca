@@ -14,6 +14,7 @@ import {
   siMedium,
   SimpleIcon,
   siPinterest,
+  siReaddotcv,
   siReddit,
 } from "simple-icons";
 import { z } from "zod";
@@ -35,6 +36,7 @@ export const supportedSocialMedia = [
   "Medium",
   "Pinterest",
   "Reddit",
+  "Read.cv",
 ] as const;
 export const supportedSocialMediaIcons: Record<
   SupportedSocialMedia,
@@ -80,6 +82,7 @@ export const supportedSocialMediaIcons: Record<
   Medium: siMedium,
   Pinterest: siPinterest,
   Reddit: siReddit,
+  "Read.cv": siReaddotcv,
 };
 export const supportedSocialMediaSchema = z.enum(supportedSocialMedia);
 export type SupportedSocialMedia = z.infer<typeof supportedSocialMediaSchema>;
@@ -165,6 +168,9 @@ export const getSocialMediaByUrl = (
   if (hostname.includes("reddit")) {
     return "Reddit";
   }
+  if (hostname.includes("read.cv")) {
+    return "Read.cv";
+  }
 };
 
 export const getSubtitleByUrl = (url: string) => {
@@ -181,6 +187,7 @@ export const getSubtitleByUrl = (url: string) => {
     case "Instagram":
     case "Layers":
     case "Pinterest":
+    case "Read.cv":
       return "@" + pathname.split("/")[1];
     case "Linkedin":
       return "@" + pathname.split("/")[2];

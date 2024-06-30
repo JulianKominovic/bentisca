@@ -31,6 +31,7 @@ const urls = [
   "https://medium.com/@andrew.bestbier",
   "https://ar.pinterest.com/berathanusta1/",
   "https://www.reddit.com/r/LocalLLaMA/",
+  "https://read.cv/carly",
 ];
 
 export default function Home({ searchParams }: any) {

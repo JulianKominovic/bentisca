@@ -19,6 +19,7 @@ import Linkedin from "./logos/Linkedin";
 import Medium from "./logos/Medium";
 import Pinterest from "./logos/Pinterest";
 import Reddit from "./logos/Reddit";
+import ReadCv from "./logos/Read.cv";
 
 export default function BentoCard({
   url,
@@ -125,6 +126,12 @@ export default function BentoCard({
         <Reddit rounded={rounded} size={size}>
           {subtitle}
         </Reddit>
+      );
+    case "Read.cv":
+      return (
+        <ReadCv rounded={rounded} size={size}>
+          {subtitle}
+        </ReadCv>
       );
 
     default:
