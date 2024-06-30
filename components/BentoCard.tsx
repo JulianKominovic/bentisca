@@ -20,6 +20,7 @@ import Medium from "./logos/Medium";
 import Pinterest from "./logos/Pinterest";
 import Reddit from "./logos/Reddit";
 import ReadCv from "./logos/Read.cv";
+import Tiktok from "./logos/Tiktok";
 
 export default function BentoCard({
   url,
@@ -132,6 +133,12 @@ export default function BentoCard({
         <ReadCv rounded={rounded} size={size}>
           {subtitle}
         </ReadCv>
+      );
+    case "Tiktok":
+      return (
+        <Tiktok rounded={rounded} size={size}>
+          {subtitle}
+        </Tiktok>
       );
 
     default:

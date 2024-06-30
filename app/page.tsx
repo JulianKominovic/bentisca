@@ -32,6 +32,7 @@ const urls = [
   "https://ar.pinterest.com/berathanusta1/",
   "https://www.reddit.com/r/LocalLLaMA/",
   "https://read.cv/carly",
+  "https://www.tiktok.com/@pelao.khe?lang=es",
 ];
 
 export default function Home({ searchParams }: any) {
