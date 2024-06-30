@@ -1,4 +1,6 @@
-[![](https://private-user-images.githubusercontent.com/70329467/344498551-c61a69dc-92eb-4be5-8da4-b63af8d8078f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk3ODczNDYsIm5iZiI6MTcxOTc4NzA0NiwicGF0aCI6Ii83MDMyOTQ2Ny8zNDQ0OTg1NTEtYzYxYTY5ZGMtOTJlYi00YmU1LThkYTQtYjYzYWY4ZDgwNzhmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjMwVDIyMzcyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2YjI3MzViYTQ2MGU0OGMyZGE4YjE0ZGNkN2VmMTI2NmQwOGU3ZTJlZjE1N2FiM2Y0YzYwNzU5MzJiY2M4MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IBkX4fOU81GlKVKq-2RYcwtFWmXZdEO1Uozf7BM7gDA)](https://bentos.jkominovic.dev/)
+
+
+[![](https://github.com/JulianKominovic/JulianKominovic/assets/70329467/54905d7b-a8d4-4a02-b2c9-c658e7962f75)](https://bentos.jkominovic.dev/)
 
 ## Social
 [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJulianKominovic&size=square)](https://github.com/JulianKominovic)
