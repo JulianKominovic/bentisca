@@ -22,6 +22,7 @@ import Reddit from "./logos/Reddit";
 import ReadCv from "./logos/Read.cv";
 import Tiktok from "./logos/Tiktok";
 import Twitch from "./logos/Twitch";
+import Twitter from "./logos/Twitter";
 
 export default function BentoCard({
   url,
@@ -146,6 +147,13 @@ export default function BentoCard({
         <Twitch rounded={rounded} size={size}>
           {subtitle}
         </Twitch>
+      );
+    case "Twitter":
+    case "X":
+      return (
+        <Twitter rounded={rounded} size={size}>
+          {subtitle}
+        </Twitter>
       );
 
     default:

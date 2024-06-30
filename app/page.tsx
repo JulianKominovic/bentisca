@@ -34,6 +34,8 @@ const urls = [
   "https://read.cv/carly",
   "https://www.tiktok.com/@pelao.khe?lang=es",
   "https://www.twitch.tv/nickdaboom",
+  "https://www.x.com/DamianCatanzaro/status/1803185953252507827",
+  "https://twitter.com/juliankominovic",
 ];
 
 export default function Home({ searchParams }: any) {
