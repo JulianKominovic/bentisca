@@ -371,9 +371,15 @@ export default function Github({
         y={height - 24}
         x={24}
         fill="#FBFBFB"
-        style={{ fontFamily: "sans-serif", fontSize: 14, fontWeight: 300 }}
+        style={{
+          fontFamily: "sans-serif",
+          fontSize: 14,
+          fontWeight: 300,
+        }}
       >
-        {children}
+        {children && children.length > width / 9
+          ? children.slice(0, width / 9) + "..."
+          : children}
       </text>
       <defs>
         <filter

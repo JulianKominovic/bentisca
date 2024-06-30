@@ -26,6 +26,7 @@ const urls = [
   "https://gitlab.com/katlin7/angularexercise",
   "https://github.com/JulianKominovic/live-feedback",
   "https://www.instagram.com/example_user",
+  "https://layers.to/princemirxcle",
 ];
 
 export default function Home({ searchParams }: any) {
@@ -69,17 +70,21 @@ export default function Home({ searchParams }: any) {
       </section>
       <ul className="flex flex-wrap gap-4 justify-center mb-16">
         {supportedSocialMedia.map((social) => {
-          const icon = supportedSocialMediaIcons[social];
+          const icon = supportedSocialMediaIcons[social] as any;
           return (
             <li key={social} className="flex gap-2 items-center text-xl">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                width="1em"
-                height="1em"
-              >
-                <path d={icon.path} />
-              </svg>
+              {icon && icon.path ? (
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  width="1em"
+                  height="1em"
+                >
+                  <path d={icon.path} />
+                </svg>
+              ) : (
+                icon
+              )}
             </li>
           );
         })}
@@ -240,7 +245,7 @@ export default function Home({ searchParams }: any) {
                   >
                     <Image
                       className="h-fit"
-                      src={"/api/test?url=" + url + "&size=" + size}
+                      src={"/api/bento-cards?url=" + url + "&size=" + size}
                       alt={url}
                       width={width}
                       height={height}

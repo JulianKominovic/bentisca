@@ -14,6 +14,7 @@ import Figma from "./logos/Figma";
 import Gitlab from "./logos/Gitlab";
 import Github from "./logos/Github";
 import Instagram from "./logos/Instagram";
+import Layers from "./logos/Layers";
 
 export default function BentoCard({
   url,
@@ -91,6 +92,13 @@ export default function BentoCard({
           {subtitle}
         </Instagram>
       );
+    case "Layers":
+      return (
+        <Layers rounded={rounded} size={size}>
+          {subtitle}
+        </Layers>
+      );
+
     default:
       return null;
   }

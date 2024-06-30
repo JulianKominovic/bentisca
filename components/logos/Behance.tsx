@@ -480,7 +480,9 @@ const BehanceLogo = ({ children, size, rounded = 24 }: BentoLogoProps) => {
         fill="#FBFBFB"
         style={{ fontFamily: "sans-serif", fontSize: 14, fontWeight: 300 }}
       >
-        {children}
+        {children && children.length > width / 9
+          ? children.slice(0, width / 9) + "..."
+          : children}
       </text>
       <defs>
         <filter

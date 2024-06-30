@@ -18,7 +18,6 @@ export default function RootLayout({
     <html lang="en">
       <body className={clsx(inter.className, "bg-neutral-50")}>
         {children}
-
         <footer className="bg-white py-16 px-8">
           <div className="mx-auto max-w-screen-md">
             <p className="mb-4">
