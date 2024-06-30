@@ -1,13 +1,7 @@
 import {
-  BentoLogoProps,
-  getBentoCardSizes,
-  SIZES,
   supportedSocialMedia,
   supportedSocialMediaIcons,
 } from "@/const/bento-cards";
-import Image from "next/image";
-import { setBentoSettings } from "./actions/bento-try";
-import CopyButton from "@/components/Copy";
 import BentoCardsApiDocs from "@/fragments/landing/docs/bento-cards-api";
 import GenericCardsApi from "@/fragments/landing/docs/generic-cards-api";
 import BentoCardsPlayground from "@/fragments/landing/playground/bento-cards-playground";
@@ -19,7 +13,7 @@ export default function Home({ searchParams }: any) {
       <section className="mb-8">
         <p className="mb-6 text-center text-8xl">🍱</p>
         <h1 className="text-5xl font-semibold text-center">
-          Beatiful bento cards for your readme
+          Beautiful bento cards for your readme
         </h1>
         <p className="mt-4 text-center text-black/60">
           22 handcrafted social media bento cards thanks to{" "}
