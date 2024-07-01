@@ -46,7 +46,7 @@ export default function BentoCardsApiDocs() {
           <tr className="">
             <th className="py-2 pl-4 text-left min-w-52">Query</th>
             <th className="py-2 pl-4 text-left min-w-52">Value</th>
-            <th className="py-2 pl-4 text-left min-w-52">Default</th>
+            <th className="w-full py-2 pl-4 text-left min-w-52">Default</th>
           </tr>
         </thead>
         <tbody>

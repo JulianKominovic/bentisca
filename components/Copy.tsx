@@ -14,7 +14,7 @@ export default function CopyButton({ textToCopy }: { textToCopy: string }) {
 
   return (
     <button
-      className="font-sans rounded-lg h-8 flex-shrink-0 items-center justify-center flex px-2 border border-black/10"
+      className="flex items-center justify-center flex-shrink-0 h-8 px-2 font-sans border rounded-lg select-none border-black/10"
       onClick={copyText}
     >
       {copied ? "Copied!" : <Copy />}

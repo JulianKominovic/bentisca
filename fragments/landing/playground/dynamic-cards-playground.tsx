@@ -3,6 +3,7 @@ import CopyButton from "@/components/Copy";
 import { getBentoCardSizes, SIZES } from "@/const/bento-cards";
 import Image from "next/image";
 import React from "react";
+import GiveCredits from "./give-credits";
 
 type Props = {
   searchParams: any;
@@ -120,6 +121,7 @@ const GenericCardsPlayground = ({ searchParams }: Props) => {
             unoptimized
             loading="lazy"
           />
+          <GiveCredits />
         </>
       )}
     </section>
